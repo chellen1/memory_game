@@ -1,25 +1,10 @@
 #game div {
   border: 1px solid black;
-  border-radius: 10px;
-  width: 17%;
+  width: 15%;
   height: 200px;
   margin: 10px;
   display: inline-block;
-  background-color: rgb(235, 94, 235);
 }
 
-#game {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
 
-body {
-  background-color: rgba(10, 10, 203, 0.614);
-}
 
-h1 {
-  text-align: center;
-  font-size: 5rem;
-  color: rgb(80, 6, 185);
-}
